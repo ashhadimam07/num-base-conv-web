@@ -13,7 +13,7 @@ html {
 body {
   margin: 0;
   margin-bottom: 40px;
-  background-color: wheat;
+  background-color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -21,7 +21,7 @@ nav {
   display: flex;
   height: 80px;
   width: 100%;
-  background-color: #113448;
+  background-color: #3b1c32;
   align-items: center;
   justify-content: center;
   padding: 0 50px 0 50px;
@@ -40,7 +40,7 @@ nav .logo {
   width: 35%;
   height: 290px;
   border: 1px solid wheat;
-  background-color: #71c2af;
+  background-color: #c5866f;
   box-shadow: 0 1px 5px rgb(97, 97, 97);
   padding-top: 25px;
   margin: 0 auto;
@@ -63,13 +63,13 @@ nav .logo {
   font-size: 15px;
   width: 75%;
   box-shadow: 0 1px 5px rgb(97, 97, 97);
-  background-color: #113448;
-  color: wheat;
+  background-color: #e1bb80;
+  color: rgb(1, 54, 70);
 }
 
 p {
   text-align: center;
-  color: #113448;
+  color: rgb(1, 54, 70);
   font-size: 16px;
   font-weight: bold;
   margin-bottom: 10px;
@@ -91,7 +91,7 @@ main {
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
-  background-color: #113448;
+  background-color: #3b1c32;
 }
 
 .footer-heading {
