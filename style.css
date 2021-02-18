@@ -42,6 +42,7 @@ nav .logo {
   border: 1px solid wheat;
   background-color: #c5866f;
   box-shadow: 0 1px 5px rgb(97, 97, 97);
+  border-radius: 8px;
   padding-top: 25px;
   margin: 0 auto;
 }
